@@ -1,0 +1,24 @@
+{
+  "name": "sprint12-backend-basics",
+  "version": "0.0.1",
+  "description": "Training project to learn basic Nodejs and Express course ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-small/sprint12-backend-basics.git"
+  },
+  "author": "ai-small",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-small/sprint12-backend-basics/issues"
+  },
+  "homepage": "https://ai-small.github.io/sprint12-backend-basics/",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
