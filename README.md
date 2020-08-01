@@ -8,7 +8,3 @@
 ## Инструкции по запуску:
 - Скачать или склонировать репозиторий
 - Установить зависимости при помощи npm - `npm i`
-
-
-## Ссылка на github pages:
-https://ai-small.github.io/sprint12-backend-basics/
